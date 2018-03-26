@@ -1,0 +1,22 @@
+#calendar {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+.fc-unthemed td.fc-today {
+    background: #95c3ce;
+}
+
+.wizard .steps .current a:active,
+.wizard .steps .current a:focus,
+.wizard .steps .current a:hover {
+    background-color: rgb(39, 189, 189);
+}
+
+.wizard .steps .current a {
+    background-color: rgb(39, 189, 189);
+}
